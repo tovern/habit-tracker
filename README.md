@@ -3,7 +3,7 @@
 ## Overview
 [Pixela](https://pixe.la/) is an API that allows you to track a habit or effort, such as learning a new skill or training for a sport. This can then be visualised nicely via a graph:
 
-![Pixela heat map](https://pixe.la/static/img/catch.gif | width=400)
+<img src="https://pixe.la/static/img/catch.gif" width="400">
 
 habit-tracker allows you to interact with the Pixela API via a Lambda function. This could be called via an Alexa skill or a Zapier workflow for example.
 
